@@ -60,14 +60,6 @@ I focus on writing maintainable, efficient code that solves real problems.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DhanyaSharma&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanya-s-b59260215)
