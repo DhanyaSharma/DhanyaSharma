@@ -4,6 +4,9 @@
 🔧 Passionate about scalable systems, clean code & real-time applications  
 📍 Chennai, Tamil Nadu
 
+![Visitor Count](https://komarev.com/ghpvc/?username=DhanyaSharma&color=blue)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Java+Developer;Backend+Engineer;Problem+Solver+☕)](https://git.io/typing-svg)
+
 ---
 
 ## 🧑‍💻 About Me
@@ -13,7 +16,7 @@ From REST APIs and workflow automation to ML integrations and real-time data pip
 I focus on writing maintainable, efficient code that solves real problems.
 
 - 🔭 Currently working on: Backend systems & full-stack projects
-- 🌱 Exploring: Spring Boot · Microservices · System Design
+- 🌱 Exploring: Microservices · System Design
 - 💡 I also work with Python, TypeScript & JavaScript when the project calls for it
 - 📫 Reach me at: **dhanya.sharma2004@gmail.com**
 
@@ -28,6 +31,11 @@ I focus on writing maintainable, efficient code that solves real problems.
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-005571?style=for-the-badge&logo=databricks&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
@@ -35,20 +43,36 @@ I focus on writing maintainable, efficient code that solves real problems.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+## 📊 GitHub Stats & Activity
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhanyaSharma&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanyaSharma&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DhanyaSharma&theme=tokyonight&hide_border=true" width="60%" />
+</p>
 
-![Dhanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhanyaSharma&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanyaSharma&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhanyaSharma&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DhanyaSharma&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/dhanya-s-b59260215))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanya-s-b59260215)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanya.sharma2004@gmail.com)
 
 ---
 
-> *"First, solve the problem. Then, write the code." – John Johnson*
+> *Eventually, It'll work!*
