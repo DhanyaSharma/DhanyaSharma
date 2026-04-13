@@ -43,22 +43,6 @@ I focus on writing maintainable, efficient code that solves real problems.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhanyaSharma&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanyaSharma&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DhanyaSharma&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanyaSharma&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
